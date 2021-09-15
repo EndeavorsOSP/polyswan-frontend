@@ -1,3 +1,3 @@
-# PolySwan Frontend
+# GradeApe Frontend
 
-This project contains the main features of the PolySwan application.
+This project contains the main features of the GRADE APE FINANCE application.
